@@ -4,7 +4,7 @@ Team Laba Ödev Ders 7 (Ödev 5)
 Test etmek için bir php ortamı kurmalısınız
 örnegin xampp kurup htdocs dosyasına ödevi ekleyerek test.php dosyasını çalıştırarak lsmTree ve SsTable süreçlerini ve işlemlerin çalışma sürelerini görebilirsiniz.
 
-ssTable1.txt dosyasında test ettim ve örnek yazılan verileri içerir.
+sstable_0.txt dosyasında test ettim ve örnek yazılan verileri içerir.
 
 Methodlar:
 
