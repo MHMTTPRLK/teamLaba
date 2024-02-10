@@ -14,7 +14,7 @@ Put :  Yeni bir key-value çifti eklemek için
 
 Delete: Bir key'e göre veriyi silmek için
 
-readSSTable: // SSTable dosyasından veri okur
+ReadSSTable:  SSTable dosyasından veri okur
 
 RewriteSSTable : Birleştirilmiş veriyi yeni bir SSTable dosyasına yaz
 
