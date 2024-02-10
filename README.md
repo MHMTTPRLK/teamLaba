@@ -14,13 +14,10 @@ Put :  Yeni bir key-value çifti eklemek için
 
 Delete: Bir key'e göre veriyi silmek için
 
-FlushToSSTable: Veriyi SSTable dosyasına aktarmak için
+readSSTable: // SSTable dosyasından veri okur
 
-SearchSSTable : SSTable dosyasında bir key'e göre veri aramak için
+RewriteSSTable : Birleştirilmiş veriyi yeni bir SSTable dosyasına yaz
 
 Compaction : SSTable dosyalarını birleştir ve gereksiz verileri temizleme işlemi
 
-RewriteSStable :  Birleştirilmiş veriyi SSTable dosyasına yaz
-
-MergeSSTables :SSTable dosyalarını birleştir ve gereksiz verileri temizle
 
